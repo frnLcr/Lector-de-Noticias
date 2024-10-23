@@ -1,4 +1,4 @@
-# 🌐 Lector de Noticias Accesible para no videntes.
+# 🌐 Lector de Noticias Accesible para personas no videntes.
 
 ### Aplicación web accesible para la lectura de noticias mediante voz
 
