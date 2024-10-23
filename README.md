@@ -41,7 +41,7 @@ Esta aplicación desarrollada en **React** y **Vite** está diseñada para facil
 2. **Instala las dependencias**:
 
     ```bash
-    cd lector-noticias-accesible
+    cd Lector-de-Noticias
     npm install
     ```
 
