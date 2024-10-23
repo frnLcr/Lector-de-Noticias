@@ -59,7 +59,7 @@ Esta aplicación desarrollada en **React** y **Vite** está diseñada para facil
 
 ## 🌐 API
 
-La aplicación utiliza la API de **NewsAPI** para obtener las últimas noticias. Necesitas una API key válida de NewsAPI, que puedes obtener [aquí](https://newsapi.org/). Reemplaza la clave API en el código (`Noticias.js`) en la siguiente línea:
+La aplicación utiliza la API de **NewsAPI** para obtener las últimas noticias. Necesitas una API key válida de NewsAPI, que puedes obtener [aquí](https://newsapi.org/). Reemplaza la clave API en el código (`Noticias.jsx`) en la siguiente línea:
 
 ```javascript
 const url = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=TU_API_KEY';
