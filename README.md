@@ -63,3 +63,28 @@ La aplicación utiliza la API de **NewsAPI** para obtener las últimas noticias.
 
 ```javascript
 const url = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=TU_API_KEY';
+```
+
+## 🔧 Personalización
+
+Puedes personalizar los siguientes aspectos de la aplicación:
+
+* **Velocidad de lectura**: Desde 0.5x hasta 2.0x.
+* **Tamaño de la fuente**: Ajustable entre el 80% y el 200%.
+
+---
+
+## 📂 Estructura del Proyecto
+
+```bash
+📦lector-noticias-accesible
+ ┣ 📂src
+ ┃ ┣ 📜App.jsx         # Componente principal de la aplicación
+ ┃ ┣ 📜Noticias.js     # Lógica del lector de noticias
+ ┃ ┣ 📜index.css       # Estilos de la aplicación
+ ┣ 📜index.html        # HTML de la aplicación
+ ┣ 📜package.json      # Dependencias y scripts
+ ┣ 📜README.md         # Instrucciones y descripción del proyecto
+```
+
+**Creado con ❤️ por Igna, Toto, Octa y Fran. Estudiantes de 3er año de Ingeneria Informatica en la Universidad Blas Pascal.**
